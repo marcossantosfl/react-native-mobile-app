@@ -2,7 +2,7 @@
 
 # Project
 
-My first project using react native following the tutorial by Pradip Debnath (https://www.youtube.com/channel/UC43N9Z8Fm0gg1Lgpw0eS9rg)
+My first project using react native
 
 The project was changed to send a request to an api
 
